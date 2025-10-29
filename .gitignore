@@ -1,0 +1,12 @@
+# ---- Python cache/junk ----
+__pycache__/
+*.pyc
+*.pyo
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+
+# ---- Project-generated files (do not track) ----
+/runs.jsonl      # Operational Log for This Project (excluding only the one in the root directory of the repository)
+/data/           # Should a data directory (automatically generated logs/data) be present in future
